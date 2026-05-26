@@ -1,5 +1,5 @@
 # Ex08 Event Registration Web Application
-# Date:08-02-2026
+# Date:26-05-2026
 # AIM:
 To design, develop and deploy a web application for event registration.
 
